@@ -2,22 +2,23 @@
 # Author : 谢晓晨
 
 
-There are project. 
+There are two projects. 
 One is UI “next-detail”, one for API “backend”.
 
 
-Script: 
+next-detail Script: 
 1.	Cd backend
 2.	Npm install 
 3.	Npm start
 
-Script :
+backend Script :
 1.	Cd next-detail
 2.	Npm install 
 3.	npm run dev
 
 
-Browser open: http://localhost:3001/
+Browser open: http://localhost:3001/,
+you will see all the data show in table.
 
 
 What could change:
