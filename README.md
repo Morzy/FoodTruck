@@ -26,4 +26,4 @@ What could change:
 2.	Second Auth function. Can do Jwt to auth.
 3.	Data search function. If without pagination, can do in UI side only. If not, can add filter into search API.
 4.	And now, the UI is ugly, the position is wrong.
-5.	Table row can be compo
+5.	Table row can be in component, add key help skip render time if data change in future.
