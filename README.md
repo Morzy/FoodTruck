@@ -25,5 +25,5 @@ What could change:
 1.	First lots of data, can do paging. The API will include the offset, so data transfer will take less time. And the UI side, will add pagination function.
 2.	Second Auth function. Can do Jwt to auth.
 3.	Data search function. If without pagination, can do in UI side only. If not, can add filter into search API.
-4.	And now, the UI is ugly, the position is wrong.
+4.	And now, the UI is ugly, the position is wrong. Table header can be fixed position.
 5.	Table row can be in component, add key help skip render time if data change in future.
