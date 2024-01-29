@@ -3,7 +3,7 @@
 
 
 There are two projects. 
-One is UI “next-detail”, one for API “backend”.
+One is UI “next-detail”, one for API “demo”.
 
 
 next-detail Script: 
