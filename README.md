@@ -11,13 +11,13 @@ next-detail Script:
 2.	Npm install 
 3.	Npm start
 
-backend Script :
-1.	Cd next-detail
-2.	Npm install 
-3.	npm run dev
+demo Script :
+1.	Cd demo
+2.	mvn install 
+3.	start DemoApplication in your own idea
 
 
-Browser open: http://localhost:3001/,
+Browser open: http://localhost:3000/,
 you will see all the data show in table.
 
 
