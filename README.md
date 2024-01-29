@@ -23,6 +23,7 @@ you will see all the data show in table.
 
 What could change:
 1.	First lots of data, can do paging. The API will include the offset, so data transfer will take less time. And the UI side, will add pagination function.
-2.	Second Auth function. Since this is only for display data right now. I will level UI. And control by Access-Control-Allow-Origin only in API.
+2.	Second Auth function. Can do Jwt to auth.
 3.	Data search function. If without pagination, can do in UI side only. If not, can add filter into search API.
-4.	And now, the UI is ugly, the position is wrong. 
+4.	And now, the UI is ugly, the position is wrong.
+5.	Table row can be compo
